@@ -3,7 +3,7 @@ Class of Soft Engneering in TIEI, TianJin University.
 
 ### Part 1: Basic Git operations
 
-
+[Git 的基本用法](git_basics.md)
 
 ### Part 2: Three questions
 
