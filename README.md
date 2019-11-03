@@ -25,7 +25,7 @@ Books:
 
 - [Clean Code](./materias/Clean Code.pdf)  
 
-- [Refactoring](./materias/Refactoring_ Improving the Design of Existing Code.pdf)    
+- [Refactoring](https://github.com/mmmmmmiracle/Soft_Engineering/blob/master/materias/Refactoring_%20Improving%20the%20Design%20of%20Existing%20Code.pdf)    
 
 
 - [设计模式之禅](./materias/设计模式之禅（第2版）.pdf)  
