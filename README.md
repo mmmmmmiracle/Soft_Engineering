@@ -23,9 +23,7 @@ Books:
 
 - [构建之法](./materias/构建之法.pdf)    
 
-
-- [Clean_Code](./materias/Clean Code.pdf)   
-
+- [Clean Code](./materias/Clean Code.pdf)  
 
 - [Refactoring](./materias/Refactoring_ Improving the Design of Existing Code.pdf)    
 
