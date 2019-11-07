@@ -7,15 +7,15 @@ Class of Soft Engneering in TIEI, TianJin University.
 
 ### Part 2: Three questions
 
+[Question1 :如何写代码注释](./questions/Q1.如何写注释.md)
+
 [Question2 :枚举3-4种软件开发流程](./questions/Q2.枚举3-4种软件开发流程.md)
 
 [Question3 :如何评价代码质量？好的标准是什么？](questions/Q3整洁的代码就是好的代码.md)
 
-
-
 ### Part 3: Reading report
 
-
+[构建之法阅读报告](./questions/构建之法阅读报告.md)
 
 ### Part 4: Materials
 
