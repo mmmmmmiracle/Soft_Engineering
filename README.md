@@ -17,6 +17,8 @@ Class of Soft Engneering in TIEI, TianJin University.
 
 [构建之法阅读报告](./questions/构建之法阅读报告.md)
 
+[图解设计模式学习总结](./design_pattern/设计模式学习总结.md)
+
 ### Part 4: Materials
 
 Books:   
