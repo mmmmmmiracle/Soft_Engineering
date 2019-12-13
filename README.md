@@ -1,6 +1,12 @@
 # Soft_Engineering
 Class of Soft Engneering in TIEI, TianJin University.
 
+
+
+课程大作业地址：https://github.com/mmmmmmiracle/SE_project
+
+
+
 ### Part 1: Basic Git operations
 
 [Git 的基本用法](git_basics.md)
